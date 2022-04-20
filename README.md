@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baag01
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on any webdevelopment projects
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on any software development project
 - 📫 How to reach me: open an issue on my repository :)
 
 <!---
